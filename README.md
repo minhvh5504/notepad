@@ -79,8 +79,15 @@ Refer to the official Firebase documentation for detailed instructions:
 
 ### Demo Project
 🎨 UI Screenshots
+
 🏠 Home Screen
+
+![Image](https://github.com/user-attachments/assets/cba9d6bc-0ce7-4e27-97ea-faf8c7feaaec)
+
 📝 Note Editor
+
+![image](https://github.com/user-attachments/assets/7d990dbb-730b-4bbd-a13a-51309f7e8bba)
+
 
 ### 🧱 Technologies Used
 
