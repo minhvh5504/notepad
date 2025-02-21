@@ -4,12 +4,11 @@
 
 <!-- GETTING STARTED -->
 
-## 🚀 Getting Started  
+### 🚀 Getting Started  
 
 Running follow these simple example steps below
 
 ---
-
 ### 🎯 Prerequisites
 
 ### 📌 System Requirements  
