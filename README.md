@@ -8,8 +8,7 @@
 
 Running follow these simple example steps below
 
----
-### 🎯 Prerequisites
+## 🎯 Prerequisites
 
 ### 📌 System Requirements  
 Before running the project, ensure you have the following installed:  
