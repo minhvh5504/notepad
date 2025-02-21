@@ -8,6 +8,8 @@
 
 Running follow these simple example steps below
 
+---
+
 ### 🎯 Prerequisites
 
 ### 📌 System Requirements  
@@ -18,7 +20,7 @@ Before running the project, ensure you have the following installed:
 - [Android Studio](https://developer.android.com/studio) or [VS Code](https://code.visualstudio.com/) with the Flutter Plugin  
 - A virtual device (Emulator) or a physical device with **USB Debugging** enabled
 
-### 📥 Installation & Running the Project  
+## 📥 Installation & Running the Project  
 
 #### 1️⃣ Clone the project from GitHub  
 ```sh
@@ -53,7 +55,7 @@ flutter emulators --launch <emulator_name>
 flutter run
 ```
 
-### 🔥 Firebase Integration 
+## 🔥 Firebase Integration 
 
 ### 1️⃣ Configure Firebase
 ```sh
@@ -77,7 +79,7 @@ flutter pub add firebase_core firebase_auth cloud_firestore
 Refer to the official Firebase documentation for detailed instructions: 
 [ Firebase ](https://firebase.google.com/docs/flutter/setup?hl=vi&platform=android)
 
-### Demo Project
+## Demo Project
 🎨 UI Screenshots
 
 🏠 Home Screen
@@ -89,13 +91,13 @@ Refer to the official Firebase documentation for detailed instructions:
 ![image](https://github.com/user-attachments/assets/7d990dbb-730b-4bbd-a13a-51309f7e8bba)
 
 
-### 🧱 Technologies Used
+## 🧱 Technologies Used
 
 *   **Flutter:** A cross-platform UI toolkit for building beautiful, natively compiled applications for mobile, web, and desktop from a single codebase.
 *   **Dart:** The programming language used to build Flutter applications.
 *   **Provider (State Management):** Manages the application state and allows widgets to access and modify data efficiently. *(If used)*
 
-### 🤝 Contributing
+## 🤝 Contributing
 
 We welcome contributions from the community! If you'd like to contribute to this project, please follow these steps:
 
@@ -105,11 +107,12 @@ We welcome contributions from the community! If you'd like to contribute to this
 4.  Write clear and concise commit messages.
 5.  Submit a pull request with a detailed description of your changes.
 
-### 📄 License
+
+## 📄 License
 
 - This project is licensed under the [MIT License](LICENSE). *(If a LICENSE file exists, link to it here)*
 
-### ✉️ Contact
+## ✉️ Contact
 
 If you have any questions or suggestions, feel free to reach out:
 
