@@ -22,7 +22,7 @@ Before running the project, ensure you have the following installed:
 
 #### 1️⃣ Clone the project from GitHub  
 ```sh
-git clone (https://github.com/minhvh5504/notepad.git)
+git clone https://github.com/minhvh5504/notepad.git
 cd notepad_flutter
 ```
 
